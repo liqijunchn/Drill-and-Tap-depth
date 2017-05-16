@@ -1,0 +1,25 @@
+missing module named resource - imported by posix, D:\boltSelection\screwSelection.py
+missing module named posix - imported by os, D:\boltSelection\screwSelection.py
+missing module named _posixsubprocess - imported by subprocess, D:\boltSelection\screwSelection.py
+missing module named org - imported by pickle, D:\boltSelection\screwSelection.py
+missing module named 'System.Windows' - imported by pyreadline.clipboard.ironpython_clipboard, D:\boltSelection\screwSelection.py
+missing module named clr - imported by pyreadline.console.ironpython_console, pyreadline.clipboard.ironpython_clipboard, D:\boltSelection\screwSelection.py
+missing module named IronPythonConsole - imported by pyreadline.console.ironpython_console, D:\boltSelection\screwSelection.py
+missing module named StringIO - imported by pyreadline.py3k_compat, D:\boltSelection\screwSelection.py
+missing module named System - imported by pyreadline.console.ironpython_console, pyreadline.keysyms.ironpython_keysyms, pyreadline.rlmain, D:\boltSelection\screwSelection.py
+missing module named sets - imported by pyreadline.keysyms.common, D:\boltSelection\screwSelection.py
+missing module named startup - imported by pyreadline.keysyms.common, pyreadline.keysyms.keysyms, D:\boltSelection\screwSelection.py
+missing module named console - imported by pyreadline.console.ansi, D:\boltSelection\screwSelection.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, D:\boltSelection\screwSelection.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, D:\boltSelection\screwSelection.py
+missing module named _winreg - imported by platform, D:\boltSelection\screwSelection.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, D:\boltSelection\screwSelection.py
+missing module named 'java.lang' - imported by platform, D:\boltSelection\screwSelection.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, D:\boltSelection\screwSelection.py
+missing module named termios - imported by tty, D:\boltSelection\screwSelection.py, getpass
+missing module named grp - imported by tarfile, shutil, D:\boltSelection\screwSelection.py
+missing module named pwd - imported by posixpath, tarfile, shutil, http.server, webbrowser, D:\boltSelection\screwSelection.py, netrc, getpass
+missing module named ce - imported by os, D:\boltSelection\screwSelection.py
+missing module named _dummy_threading - imported by dummy_threading, D:\boltSelection\screwSelection.py
+missing module named 'org.python' - imported by copy, D:\boltSelection\screwSelection.py, xml.sax

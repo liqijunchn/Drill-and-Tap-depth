@@ -1,0 +1,48 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+QApplication	boltSelection\screwSelection.py	/^from PyQt5.QtWidgets import QApplication, QMainWindow, QWidget, QLabel, QLineEdit, QComboBox, QPushButton, QGridLayout, QVBoxLayout, QTextEdit, QHBoxLayout$/;"	kind:namespace	line:7
+QComboBox	boltSelection\screwSelection.py	/^from PyQt5.QtWidgets import QApplication, QMainWindow, QWidget, QLabel, QLineEdit, QComboBox, QPushButton, QGridLayout, QVBoxLayout, QTextEdit, QHBoxLayout$/;"	kind:namespace	line:7
+QGridLayout	boltSelection\screwSelection.py	/^from PyQt5.QtWidgets import QApplication, QMainWindow, QWidget, QLabel, QLineEdit, QComboBox, QPushButton, QGridLayout, QVBoxLayout, QTextEdit, QHBoxLayout$/;"	kind:namespace	line:7
+QHBoxLayout	boltSelection\screwSelection.py	/^from PyQt5.QtWidgets import QApplication, QMainWindow, QWidget, QLabel, QLineEdit, QComboBox, QPushButton, QGridLayout, QVBoxLayout, QTextEdit, QHBoxLayout$/;"	kind:namespace	line:7
+QIcon	boltSelection\screwSelection.py	/^from PyQt5.QtGui import QPixmap, QIcon$/;"	kind:namespace	line:6
+QLabel	boltSelection\screwSelection.py	/^from PyQt5.QtWidgets import QApplication, QMainWindow, QWidget, QLabel, QLineEdit, QComboBox, QPushButton, QGridLayout, QVBoxLayout, QTextEdit, QHBoxLayout$/;"	kind:namespace	line:7
+QLineEdit	boltSelection\screwSelection.py	/^from PyQt5.QtWidgets import QApplication, QMainWindow, QWidget, QLabel, QLineEdit, QComboBox, QPushButton, QGridLayout, QVBoxLayout, QTextEdit, QHBoxLayout$/;"	kind:namespace	line:7
+QMainWindow	boltSelection\screwSelection.py	/^from PyQt5.QtWidgets import QApplication, QMainWindow, QWidget, QLabel, QLineEdit, QComboBox, QPushButton, QGridLayout, QVBoxLayout, QTextEdit, QHBoxLayout$/;"	kind:namespace	line:7
+QPixmap	boltSelection\screwSelection.py	/^from PyQt5.QtGui import QPixmap, QIcon$/;"	kind:namespace	line:6
+QPushButton	boltSelection\screwSelection.py	/^from PyQt5.QtWidgets import QApplication, QMainWindow, QWidget, QLabel, QLineEdit, QComboBox, QPushButton, QGridLayout, QVBoxLayout, QTextEdit, QHBoxLayout$/;"	kind:namespace	line:7
+QTextEdit	boltSelection\screwSelection.py	/^from PyQt5.QtWidgets import QApplication, QMainWindow, QWidget, QLabel, QLineEdit, QComboBox, QPushButton, QGridLayout, QVBoxLayout, QTextEdit, QHBoxLayout$/;"	kind:namespace	line:7
+QVBoxLayout	boltSelection\screwSelection.py	/^from PyQt5.QtWidgets import QApplication, QMainWindow, QWidget, QLabel, QLineEdit, QComboBox, QPushButton, QGridLayout, QVBoxLayout, QTextEdit, QHBoxLayout$/;"	kind:namespace	line:7
+QWidget	boltSelection\screwSelection.py	/^from PyQt5.QtWidgets import QApplication, QMainWindow, QWidget, QLabel, QLineEdit, QComboBox, QPushButton, QGridLayout, QVBoxLayout, QTextEdit, QHBoxLayout$/;"	kind:namespace	line:7
+__init__	boltSelection\screwSelection.py	/^    def __init__(self):$/;"	kind:member	line:13
+app	boltSelection\screwSelection.py	/^    app = QApplication(sys.argv)$/;"	kind:variable	line:382
+boltSelection	boltSelection\screwSelection.py	/^class boltSelection(QMainWindow):$/;"	kind:class	line:10
+calculate_drill_depth	boltSelection\screwSelection.py	/^    def calculate_drill_depth(self, tap_depth, pitch):$/;"	kind:member	line:295
+calculate_tap_depth	boltSelection\screwSelection.py	/^    def calculate_tap_depth(self, housingMaterial, screwSize, pitch, join, screwLength):$/;"	kind:member	line:228
+clearanceHole	boltSelection\screwSelection.py	/^    def clearanceHole(self, screwsize, type):$/;"	kind:member	line:324
+display_join_thk	boltSelection\screwSelection.py	/^    def display_join_thk(self):$/;"	kind:member	line:362
+display_screw_length	boltSelection\screwSelection.py	/^    def display_screw_length(self):$/;"	kind:member	line:365
+emit_sch	boltSelection\screwSelection.py	/^    def emit_sch(self):$/;"	kind:member	line:350
+joinInput	boltSelection\screwSelection.py	/^    def joinInput(self):$/;"	kind:member	line:163
+os	boltSelection\path.py	/^import sys,os$/;"	kind:namespace	line:1
+os	boltSelection\screwSelection.py	/^import os$/;"	kind:namespace	line:3
+outputData	boltSelection\screwSelection.py	/^    def outputData(self):$/;"	kind:member	line:185
+path	boltSelection\path.py	/^path=resource_path('test.txt')$/;"	kind:variable	line:14
+path.py	boltSelection\path.py	1;"	kind:file	line:1
+pitchSeries	boltSelection\screwSelection.py	/^    def pitchSeries(self, combo):$/;"	kind:member	line:166
+pyqtSignal	boltSelection\screwSelection.py	/^from PyQt5.QtCore import pyqtSignal$/;"	kind:namespace	line:5
+query	boltSelection\screwSelection.py	/^    def query(self,query_info):$/;"	kind:member	line:207
+resource_path	boltSelection\path.py	/^def resource_path(relative_path):$/;"	kind:function	line:2
+resource_path	boltSelection\screwSelection.py	/^    def resource_path(self, relative_path):$/;"	kind:member	line:368
+screwSelection.py	boltSelection\screwSelection.py	1;"	kind:file	line:1
+signal_clearance_hole	boltSelection\screwSelection.py	/^    signal_clearance_hole = pyqtSignal()$/;"	kind:variable	line:11
+sqlite3	boltSelection\screwSelection.py	/^import sqlite3$/;"	kind:namespace	line:4
+sys	boltSelection\path.py	/^import sys,os$/;"	kind:namespace	line:1
+sys	boltSelection\screwSelection.py	/^import sys$/;"	kind:namespace	line:2
+update_clearance_hole	boltSelection\screwSelection.py	/^    def update_clearance_hole(self):$/;"	kind:member	line:319
+update_material	boltSelection\screwSelection.py	/^    def update_material(self):$/;"	kind:member	line:353
+update_tap_drill	boltSelection\screwSelection.py	/^    def update_tap_drill(self):$/;"	kind:member	line:199
+w	boltSelection\screwSelection.py	/^    w = boltSelection()$/;"	kind:variable	line:384
